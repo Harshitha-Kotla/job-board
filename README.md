@@ -32,15 +32,7 @@ adding my code
 - mongoDB
 - SWR hooks for fetching API 
 
-## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`DB_URI` = Your mongoDB URL
-
-`JWT_SECREAT` = Your custom JWT_SECREAT key
-
-`NEXT_PUBLIC_API_BASE_URL` =  Base URL for localhost  => http://localhost:3000
 
 
 ## Installation
